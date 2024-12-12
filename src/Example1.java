@@ -17,7 +17,7 @@ public class Example1 {
 
 	        // Create an array with specified size
 	        String[] names = new String[3];
-	        names[0] = "Alice";
+	        names[0] = "meghana";
 	        names[1] = "Bob";
 	        names[2] = "Charlie";
 
