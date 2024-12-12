@@ -3,7 +3,7 @@ public class Example1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		 int[] numbers = {10, 20, 30, 40, 50};
+		 int[] numbers = {10, 20, 30, 70, 50};
 
 	        // Access and print elements of the array
 	        System.out.println("First element: " + numbers[0]); // Access the first element
