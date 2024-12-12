@@ -19,7 +19,7 @@ public class Example1 {
 	        String[] names = new String[3];
 	        names[0] = "meghana";
 	        names[1] = "sirga";
-	        names[2] = "Charlie";
+	        names[2] = "sai";
 
 	        // Print all names
 	        System.out.println("Names in the array:");
