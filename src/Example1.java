@@ -11,6 +11,8 @@ public class Example1 {
 		 System.out.println("The value of a is"+c);
 		 int d = a+b+c;
 		 System.out.println("The value of a is"+d);
+		 int avg = d/2;
+		 System.out.println("The value of a is"+avg);
 
 
 		 
