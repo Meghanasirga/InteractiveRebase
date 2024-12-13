@@ -5,6 +5,14 @@ public class Example1 {
 		// TODO Auto-generated method stub
 		 int[] numbers = {10, 20, 30, 70, 50};
 		 int a =10;
+		 int b = 50;
+		 System.out.println("The value of a is"+b);
+		 int c = 30;
+		 System.out.println("The value of a is"+c);
+		 int d = a+b+c;
+		 System.out.println("The value of a is"+d);
+
+
 		 
 
 	        // Access and print elements of the array
