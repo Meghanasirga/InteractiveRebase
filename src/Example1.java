@@ -4,6 +4,8 @@ public class Example1 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 int[] numbers = {10, 20, 30, 70, 50};
+		 int a =10;
+		 
 
 	        // Access and print elements of the array
 	        System.out.println("First element: " + numbers[0]); // Access the first element
@@ -26,6 +28,9 @@ public class Example1 {
 	        for (String name : names) {
 	            System.out.println(name);
 	        }
+	        System.out.println("The value of a is"+a);
+	        
+	        
 	}
 
 }
