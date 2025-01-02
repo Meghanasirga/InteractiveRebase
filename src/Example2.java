@@ -6,6 +6,8 @@ public class Example2 {
 		System.out.println("value of a is"+a);
 		int b = 60;
 		 System.out.println("The value of a is"+b);
+		 int c = 30;
+		 System.out.println("The value of a is"+c);
 
 	}
 
